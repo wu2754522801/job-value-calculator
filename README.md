@@ -104,7 +104,7 @@ vercel
         <td>QQ</td>
     </tr>
     <tr>
-        <td><img src="./demo/WX.png"/></td>
-        <td><img src="./demo/QQ.png"/></td>
+        <td><img src="http://img.astarcloud.top/202502130918503.png"/></td>
+        <td><img src="http://img.astarcloud.top/202502130918490.png"/></td>
     </tr>
 </table>

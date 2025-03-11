@@ -63,13 +63,14 @@
 
 1. 克隆仓库
    ```
-   git clone https://github.com/yourusername/job-value-calculator.git
+   git clone https://github.com/wu2754522801/job-value-calculator
    ```
 
 2. 安装依赖
    ```
    cd job-value-calculator
    npm install
+   或者 npm install --legacy-peer-deps
    ```
 
 3. 启动开发服务器
